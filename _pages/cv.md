@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Information Science, Japan Advanced Institute of Science and Technology , 2025
-* B.E. in Systems Life Engineering, Maebashi Institute of Techonology, 2023
+* B.E. in Systems Life Engineering, Maebashi Institute of Technology, 2023
 
 Work experience
 ======
