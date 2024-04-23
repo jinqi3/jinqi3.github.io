@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Jinqi"
   pronouns         : # example: ""  
-  bio              : ""
+  bio              : 
   location         : "Japan"
-  employer         : ""
+  employer         : 
   uri              : # URL
   email            : "jinqizh8@gmail.com" 
 
