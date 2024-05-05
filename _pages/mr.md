@@ -1,8 +1,8 @@
 ---
-permalink: /mr/
+layout: archive
 title: "Master Reasearch"
+permalink: /mr/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
+redirect_from:
+  - /mr
 ---
