@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Master Reasearch"
+title: "FSSP"
 permalink: /msr/
 author_profile: true
 redirect_from:
