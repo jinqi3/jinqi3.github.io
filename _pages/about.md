@@ -6,3 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hi! This is the website of jinqi.He is a master student at the school of Information Science, [JAIST](https://www.jaist.ac.jp/english/).
