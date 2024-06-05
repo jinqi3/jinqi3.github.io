@@ -14,4 +14,4 @@ Japan Advanced Institute of Science and Technology,
 1-1 Asahidai, Nomi, Ishikawa, 923-1292 Japan.  
 
 
-Email: jinqizh8[at]gmail.com  
+Email: employmentjinqi[at]gmail.com  
