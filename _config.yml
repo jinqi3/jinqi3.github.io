@@ -10,7 +10,7 @@
 locale                   : "Japan"
 title                    : "Jinqi's page"
 title_separator          : ""
-name                     : &name "Jinqizh"
+name                     : &name "Jinqi3"
 description              : &description "personal description"
 url                      : https://jinqizh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ author:
   location         : "Japan"
   employer         : 
   uri              : # URL
-  email            : "jinqizh8@gmail.com" 
+  email            : "employmentjinqi@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
